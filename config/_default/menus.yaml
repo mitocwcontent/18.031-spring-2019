@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 0370554b-18e1-90e6-15e3-5a2b4ad0c204
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 6de678fd-f542-ae23-9de0-55d7b2f9baa1
+  name: Instructor Insights
+  url: /pages/instructor-insights
+  weight: 20
+- identifier: external-aa0de434becd4df3962c634c7936f5c1
+  name: Online Publication
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.031+2019_Spring/about
+  weight: 1000
