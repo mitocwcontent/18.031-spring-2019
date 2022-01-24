@@ -7,7 +7,7 @@ leftnav:
   name: Instructor Insights
   url: /pages/instructor-insights
   weight: 20
-- identifier: external-aa0de434becd4df3962c634c7936f5c1
+- identifier: external-54dfae1f86774ef7928ac33727d84c62
   name: Online Publication
   url: https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.031+2019_Spring/about
   weight: 1000
